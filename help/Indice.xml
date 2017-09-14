@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+	<indexitem text="articulo">
+		<indexitem text="articulo" target="articulo" />
+		<indexitem text="comprar" target="articulo"/>
+		<indexitem text="añadir" target="articulo"/>
+	</indexitem>
+	
+	<indexitem text="cabecera">
+		<indexitem text="inicio" target="cabecera" />
+		<indexitem text="buscar" target="cabecera" />
+		<indexitem text="iniciar" target="cabecera" />
+		<indexitem text="sesion" target="cabecera" />
+		<indexitem text="carrito" target="cabecera" />
+		<indexitem text="perfil" target="cabecera" />
+		<indexitem text="idioma" target="cabecera" />
+	</indexitem>
+	
+	<indexitem text="carrito">
+		<indexitem text="carrito" target="carrito" />
+		<indexitem text="productos" target="carrito" />
+		<indexitem text="fin" target="carrito" />
+		<indexitem text="precio" target="carrito" />
+		<indexitem text="quitar" target="carrito" />
+		<indexitem text="añadir" target="carrito" />
+	</indexitem>
+	
+	<indexitem text="catalogo">
+		<indexitem text="catalogo" target="catalogo" />
+		<indexitem text="articulo" target="catalogo" />
+		<indexitem text="categorias" target="catalogo" />
+		<indexitem text="filtrar" target="catalogo" />
+		<indexitem text="filtro" target="catalogo" />
+		<indexitem text="comprar" target="catalogo" />
+	</indexitem>
+	
+	<indexitem text="compra">
+		<indexitem text="finalizar" target="acabar" />
+		<indexitem text="acabar" target="acabar" />
+		<indexitem text="factura" target="acabar" />
+		<indexitem text="comprar" target="acabar" />
+		<indexitem text="regalos" target="acabar" />
+		<indexitem text="puntos" target="acabar" />
+	</indexitem>
+	
+	<indexitem text="introduccion">
+		<indexitem text="introduccion" target="introduccion" />
+		<indexitem text="contenidos" target="introduccion" />
+		<indexitem text="eii" target="introduccion" />
+		<indexitem text="market" target="introduccion" />
+	</indexitem>
+	
+	<indexitem text="perfil">
+		<indexitem text="cuenta" target="perfil" />
+		<indexitem text="datos" target="perfil" />
+		<indexitem text="cambiar" target="perfil" />
+		<indexitem text="contraseña" target="perfil" />
+		<indexitem text="usuario" target="perfil" />
+		<indexitem text="facturacion" target="perfil" />
+	</indexitem>
+	
+	<indexitem text="principal">
+		<indexitem text="pagina" target="principal" />
+		<indexitem text="principal" target="principal "/>
+		<indexitem text="rotacion" target="principal" />
+		<indexitem text="oferta" target="principal" />
+		<indexitem text="anuncio" target="principal" />
+		<indexitem text="categorias" target="principal" />
+		<indexitem text="destacados" target="principal" />
+		<indexitem text="productos" target="principal" />
+	</indexitem>
+	
+	<indexitem text="registro">
+		<indexitem text="registro" target="registro" />
+		<indexitem text="registrarse" target="registro" />
+		<indexitem text="ventajas" target="registro" />
+		<indexitem text="puntos" target="registro" />
+	</indexitem>
+	
+	<indexitem text="terminar">
+		<indexitem text="terminar" target="terminar" />
+		<indexitem text="factura" target="terminar" />
+		<indexitem text="comprar" target="terminar" />
+		<indexitem text="guardar" target="terminar" />
+		<indexitem text="gracias" target="terminar" />
+	</indexitem>
+		
+</index>
